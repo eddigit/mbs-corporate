@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "home": "Home",
+    "jurisdictions": "Our Jurisdictions",
+    "bankAccount": "Bank Account",
+    "tup": "TUP",
+    "services": "Services",
+    "contact": "Contact",
+    "freeConsultation": "Free consultation"
+  },
+  "hero": {
+    "title": "CREATE YOUR COMPANY IN ONE OF 28 JURISDICTIONS",
+    "subtitle": "Tailored support for creating your company abroad, opening a bank account, and optimizing your international structure.",
+    "cta": "Get a free consultation",
+    "ctaButton": "Contact us"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for your international development",
+    "learnMore": "Learn more",
+    "allServices": "All our services",
+    "readyMade": "Ready Made Company",
+    "readyMadeDesc": "Pre-incorporated companies available immediately for a quick start.",
+    "nominee": "Nominee Director & Shareholder",
+    "nomineeDesc": "Protect your identity in public registers with our professional nominee services.",
+    "domiciliation": "Registered Address & Virtual Office",
+    "domiciliationDesc": "Prestigious address and comprehensive virtual office services in our jurisdictions.",
+    "accounting": "Accounting & Audit",
+    "accountingDesc": "Accounting and audit services to ensure compliance of your international company.",
+    "expatriation": "Dubai Expatriation",
+    "expatriationDesc": "Complete support for your relocation to Dubai: company, visa, bank account."
+  },
+  "whyUs": {
+    "title": "Why Choose Us",
+    "subtitle": "Over 10 years of expertise in international company formation",
+    "trust": "Trust",
+    "trustDesc": "Thousands of clients trust us with their internationalization projects. We guarantee transparency and confidentiality.",
+    "speed": "Speed",
+    "speedDesc": "Company formation in 24 to 48 hours in certain jurisdictions. Optimized processes for a quick start.",
+    "expertise": "Expertise",
+    "expertiseDesc": "A team of lawyers and tax specialists specialized in international corporate law and tax optimization.",
+    "support": "Support",
+    "supportDesc": "A dedicated contact person guides you at every step, from creation to the daily management of your company."
+  },
+  "jurisdictions": {
+    "title": "Our 28 Jurisdictions",
+    "subtitle": "Find the ideal jurisdiction for your international business project",
+    "taxRate": "Tax rate",
+    "from": "From",
+    "learnMore": "Learn more",
+    "companyTypes": "Company types",
+    "minCapital": "Minimum capital",
+    "timeline": "Incorporation timeline",
+    "advantages": "Key advantages",
+    "backToList": "← Back to jurisdictions",
+    "requestQuote": "Request a quote",
+    "contactUs": "Contact us about your project"
+  },
+  "bankAccount": {
+    "title": "Bank Account Opening",
+    "subtitle": "Open your professional bank account remotely",
+    "guarantee": "Guaranteed 4-day timeline",
+    "features": {
+      "remote": "100% Remote Opening",
+      "remoteDesc": "No need to travel. We manage the entire account opening process remotely.",
+      "multiCurrency": "Multi-Currency Account",
+      "multiCurrencyDesc": "Manage your operations in EUR, USD, GBP, and many other currencies from a single account.",
+      "banking": "Internet Banking",
+      "bankingDesc": "Access your account 24/7 via a secure online platform and mobile application.",
+      "cards": "Visa / Mastercard Cards",
+      "cardsDesc": "Receive international payment cards for your daily business expenses."
+    },
+    "partners": "Our Banking Partners",
+    "partnersDesc": "We collaborate with a network of leading international banks to offer you the best banking solutions tailored to your business.",
+    "cta": "Open an account"
+  },
+  "tup": {
+    "title": "Universal Transfer of Assets (TUP)",
+    "subtitle": "The simplified solution to dissolve your subsidiary",
+    "article": "Article 1844-5 of the French Civil Code",
+    "whatIs": "What is TUP?",
+    "whatIsDesc": "The Universal Transfer of Assets (TUP) is a legal mechanism provided by Article 1844-5 of the French Civil Code. It allows the dissolution of a company whose shares are all held by a single shareholder, without the need for liquidation proceedings.",
+    "howItWorks": "How does it work?",
+    "step1": "All shares gathered by the sole shareholder",
+    "step2": "Publication of dissolution in the Legal Gazette",
+    "step3": "30-day creditor opposition period",
+    "step4": "Automatic transfer of all assets and liabilities",
+    "advantages": "Advantages vs Standard Liquidation",
+    "adv1": "No need to appoint a liquidator",
+    "adv2": "No closing meeting required",
+    "adv3": "Reduced timeline (30 days vs several months)",
+    "adv4": "Significant cost savings",
+    "adv5": "Continuity of contracts and commitments",
+    "adv6": "Automatic transfer of assets and liabilities",
+    "eligibility": "Check Your Eligibility",
+    "eligibilityDesc": "TUP is applicable when all shares of a company are held by a single shareholder (natural or legal person).",
+    "checkEligibility": "Check my eligibility"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Our team is at your disposal to answer all your questions",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "messagePlaceholder": "Describe your project...",
+      "submit": "Send",
+      "success": "Your message has been sent successfully. We will get back to you as soon as possible.",
+      "required": "This field is required"
+    },
+    "info": {
+      "title": "Our Contact Details",
+      "email": "contact@corporate-services.com",
+      "phone": "+971 XX XXX XXXX",
+      "address": "Dubai, United Arab Emirates",
+      "hours": "Mon - Fri: 9:00 AM - 6:00 PM"
+    }
+  },
+  "footer": {
+    "description": "Your trusted partner for international company formation, bank account opening, and tax optimization.",
+    "quickLinks": "Quick links",
+    "ourServices": "Our services",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "rights": "All rights reserved."
+  },
+  "cookie": {
+    "message": "This site uses cookies to improve your browsing experience.",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}

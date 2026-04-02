@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "jurisdictions": "Nos Juridictions",
+    "bankAccount": "Compte Bancaire",
+    "tup": "TUP",
+    "services": "Services",
+    "contact": "Contact",
+    "freeConsultation": "Consultation gratuite"
+  },
+  "hero": {
+    "title": "CRÉEZ VOTRE ENTREPRISE DANS L'UNE DES 28 JURIDICTIONS",
+    "subtitle": "Accompagnement sur-mesure pour la création de votre société à l'étranger, l'ouverture de compte bancaire et l'optimisation de votre structure internationale.",
+    "cta": "Recevez une consultation gratuite",
+    "ctaButton": "Nous contacter"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions complètes pour votre développement international",
+    "learnMore": "En savoir plus",
+    "allServices": "Tous nos services",
+    "readyMade": "Ready Made Company",
+    "readyMadeDesc": "Sociétés pré-constituées disponibles immédiatement pour un démarrage sans délai.",
+    "nominee": "Nominee Director & Shareholder",
+    "nomineeDesc": "Protection de votre identité dans les registres publics avec nos services de nominee professionnels.",
+    "domiciliation": "Domiciliation & Bureau virtuel",
+    "domiciliationDesc": "Adresse de prestige et services de bureau virtuel complets dans nos juridictions.",
+    "accounting": "Comptabilité & Audit",
+    "accountingDesc": "Services comptables et d'audit pour assurer la conformité de votre société internationale.",
+    "expatriation": "Expatriation à Dubaï",
+    "expatriationDesc": "Accompagnement complet pour votre installation à Dubaï : société, visa, compte bancaire."
+  },
+  "whyUs": {
+    "title": "Pourquoi Nous Choisir",
+    "subtitle": "Plus de 10 ans d'expertise dans la création de sociétés internationales",
+    "trust": "Confiance",
+    "trustDesc": "Des milliers de clients nous font confiance pour leurs projets d'internationalisation. Nous garantissons transparence et confidentialité.",
+    "speed": "Rapidité",
+    "speedDesc": "Création de société en 24 à 48 heures dans certaines juridictions. Des processus optimisés pour un démarrage rapide.",
+    "expertise": "Expertise",
+    "expertiseDesc": "Une équipe de juristes et fiscalistes spécialisés dans le droit international des sociétés et l'optimisation fiscale.",
+    "support": "Accompagnement",
+    "supportDesc": "Un interlocuteur dédié vous accompagne à chaque étape, de la création à la gestion quotidienne de votre société."
+  },
+  "jurisdictions": {
+    "title": "Nos 28 Juridictions",
+    "subtitle": "Trouvez la juridiction idéale pour votre projet d'entreprise internationale",
+    "taxRate": "Taux d'imposition",
+    "from": "À partir de",
+    "learnMore": "En savoir plus",
+    "companyTypes": "Types de sociétés",
+    "minCapital": "Capital minimum",
+    "timeline": "Délai de création",
+    "advantages": "Avantages clés",
+    "backToList": "← Retour aux juridictions",
+    "requestQuote": "Demander un devis",
+    "contactUs": "Contactez-nous pour votre projet"
+  },
+  "bankAccount": {
+    "title": "Ouverture de Compte Bancaire",
+    "subtitle": "Ouvrez votre compte bancaire professionnel à distance",
+    "guarantee": "Délai garanti 4 jours",
+    "features": {
+      "remote": "Ouverture 100% à distance",
+      "remoteDesc": "Pas besoin de vous déplacer. Nous gérons l'intégralité du processus d'ouverture de compte à distance.",
+      "multiCurrency": "Compte multi-devises",
+      "multiCurrencyDesc": "Gérez vos opérations en EUR, USD, GBP et dans de nombreuses autres devises depuis un seul compte.",
+      "banking": "Internet Banking",
+      "bankingDesc": "Accédez à votre compte 24/7 via une plateforme en ligne sécurisée et une application mobile.",
+      "cards": "Cartes Visa / Mastercard",
+      "cardsDesc": "Recevez des cartes de paiement internationales pour vos dépenses professionnelles quotidiennes."
+    },
+    "partners": "Nos Partenaires Bancaires",
+    "partnersDesc": "Nous collaborons avec un réseau de banques internationales de premier plan pour vous offrir les meilleures solutions bancaires adaptées à votre activité.",
+    "cta": "Ouvrir un compte"
+  },
+  "tup": {
+    "title": "Transmission Universelle de Patrimoine (TUP)",
+    "subtitle": "La solution simplifiée pour dissoudre votre filiale",
+    "article": "Article 1844-5 du Code civil",
+    "whatIs": "Qu'est-ce que la TUP ?",
+    "whatIsDesc": "La Transmission Universelle de Patrimoine (TUP) est un mécanisme juridique prévu par l'article 1844-5 du Code civil français. Elle permet la dissolution d'une société dont toutes les parts sont réunies en une seule main, sans qu'il soit nécessaire de procéder à une liquidation.",
+    "howItWorks": "Comment ça fonctionne ?",
+    "step1": "Réunion de toutes les parts sociales par l'associé unique",
+    "step2": "Publication de la dissolution au Journal d'Annonces Légales",
+    "step3": "Délai d'opposition des créanciers de 30 jours",
+    "step4": "Transmission automatique de l'intégralité du patrimoine",
+    "advantages": "Avantages vs Liquidation classique",
+    "adv1": "Pas de nomination de liquidateur",
+    "adv2": "Pas d'assemblée de clôture",
+    "adv3": "Délai réduit (30 jours vs plusieurs mois)",
+    "adv4": "Économie significative de coûts",
+    "adv5": "Continuité des contrats et engagements",
+    "adv6": "Transmission automatique des actifs et passifs",
+    "eligibility": "Vérifiez votre éligibilité",
+    "eligibilityDesc": "La TUP est applicable lorsque toutes les parts sociales d'une société sont réunies entre les mains d'un seul associé (personne physique ou morale).",
+    "checkEligibility": "Vérifier mon éligibilité"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Notre équipe est à votre disposition pour répondre à toutes vos questions",
+    "form": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "phone": "Téléphone",
+      "email": "Email",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez votre projet...",
+      "submit": "Envoyer",
+      "success": "Votre message a bien été envoyé. Nous vous recontacterons dans les plus brefs délais.",
+      "required": "Ce champ est requis"
+    },
+    "info": {
+      "title": "Nos Coordonnées",
+      "email": "contact@corporate-services.com",
+      "phone": "+971 XX XXX XXXX",
+      "address": "Dubaï, Émirats Arabes Unis",
+      "hours": "Lun - Ven : 9h00 - 18h00"
+    }
+  },
+  "footer": {
+    "description": "Votre partenaire de confiance pour la création de sociétés internationales, l'ouverture de comptes bancaires et l'optimisation fiscale.",
+    "quickLinks": "Liens rapides",
+    "ourServices": "Nos services",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "rights": "Tous droits réservés."
+  },
+  "cookie": {
+    "message": "Ce site utilise des cookies pour améliorer votre expérience de navigation.",
+    "accept": "Accepter",
+    "decline": "Refuser"
+  }
+}
