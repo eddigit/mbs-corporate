@@ -13,8 +13,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "Corporate Services — Création de sociétés internationales",
-    template: "%s | Corporate Services",
+    default: "CMB LUX — Création de sociétés internationales",
+    template: "%s | CMB LUX",
   },
   description:
     "Création de sociétés à l'étranger dans 28 juridictions. Ouverture de compte bancaire, TUP, expatriation Dubaï.",

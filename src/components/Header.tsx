@@ -49,7 +49,7 @@ export default function Header() {
               <Globe className={`w-4.5 h-4.5 ${scrolled ? 'text-white' : 'text-emerald-300'}`} strokeWidth={1.5} />
             </div>
             <span className={`text-lg font-bold tracking-tight ${scrolled ? 'text-gray-900' : 'text-white'}`}>
-              Corporate<span className={scrolled ? 'text-emerald-600' : 'text-emerald-300'}>Services</span>
+              CMB<span className={scrolled ? 'text-emerald-600' : 'text-emerald-300'}> LUX</span>
             </span>
           </Link>
 

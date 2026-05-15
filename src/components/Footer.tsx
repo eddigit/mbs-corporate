@@ -22,14 +22,14 @@ export default function Footer() {
                 <Globe className="w-4.5 h-4.5 text-white" strokeWidth={1.5} />
               </div>
               <span className="text-lg font-bold text-white tracking-tight">
-                Corporate<span className="text-emerald-400">Services</span>
+                CMB<span className="text-emerald-400"> LUX</span>
               </span>
             </div>
             <p className="text-sm leading-relaxed text-gray-500">{t("description")}</p>
             <div className="flex flex-col gap-2.5 mt-5">
               <div className="flex items-center gap-2 text-sm">
                 <Mail className="w-4 h-4 text-emerald-500/60" strokeWidth={1.2} />
-                <span>contact@corporate-services.com</span>
+                <span>contact@cmb-lux.com</span>
               </div>
               <div className="flex items-center gap-2 text-sm">
                 <Phone className="w-4 h-4 text-emerald-500/60" strokeWidth={1.2} />
@@ -104,7 +104,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800/50 mt-12 pt-6 flex flex-col sm:flex-row justify-between items-center gap-3 text-xs text-gray-600">
           <p>
-            &copy; {new Date().getFullYear()} Corporate Services. {t("rights")}
+            &copy; {new Date().getFullYear()} CMB LUX. {t("rights")}
           </p>
           <p>Crafted with precision ✦</p>
         </div>
